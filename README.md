@@ -36,8 +36,8 @@
 
 ### 💾 Github Stats
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api?username=DevLucia-21&show_icons=true&theme=city_lights" alt="DevLucia-21's github stats" />
-  <img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucia-21&layout=compact&theme=city_lights" alt="Top Languages" />
+  <img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api?username=DevLucia-21&theme=city_lights" />
+  <img align="center" style="height:130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevLucia-21&layout=compact&show_owner=DevLucia-21&theme=city_lights" />
 </div>
 
 <br>
