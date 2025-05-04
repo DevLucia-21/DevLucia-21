@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=A9B5DF&height=150&section=header&text=DevLucia-21%27s%20Portfolio&fontSize=30&fontAlignY=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A9B5DF&height=150&section=header&text=yeeun%27s%20Portfolio&fontSize=30&fontAlignY=30&animation=twinkling)
 
 ### 🛠️ Skills  
 
